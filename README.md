@@ -14,14 +14,6 @@ Si nous mettions cette meme espèce de reptile dans le terrarium, il pourrait vi
 Par exemple, si une personne possède un reptile chez lui , grace à ce projet il pourrait partir en vacance sans devoir demandé à quelqu'un de devoir venir chez lui pour qu'il prenne soin de son reptile.
 
 
-# Première séance 
-
-Dans cette première séance, nous nous sommes mis d'accord avec mon équipe composé de McGannon Sean , Vaujany Alexandre et moi(Tognan Antonin) sur le projet que nous allons faire ce second semestre .
-Nous nous sommes finalement mis d'accord sur le projet terrarduino dont la description est faite ci-dessus .
-Nous avons donc commencé à réfléchir sur tout ce que nous pouvions faire sur ce projet.
-Humidité ,chaleur , alimentation, hydratation, etc ... 
-Nous avons aussi commencé la liste du matériel dont nous aurons besoins afin d'accomplir ce projet .
-
 # Matériel utilisé 
 Encore aucun matériel utilisé 
 
