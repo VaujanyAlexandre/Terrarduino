@@ -9,7 +9,8 @@ Mon équipe de travail est composé de MCGANNON Sean, VAUJANY  Alexandre et moi(
 
 Dans cette première séance, j'ai formé mon groupe avec MCGANNON Sean et VAUJANY  Alexandre.
 
-Nous nous sommes mis d'accord avec mon équipe pour faire un projet autour du terrarium. 
+Nous nous sommes mis d'accord avec mon équipe pour faire un projet autour des animaux et des plantes.
+
 Donc, notre projet d'arduino que nous allons réaliser tout au long du second semestre portera sur un terrarium connecté, le terrarduino.
 
 
