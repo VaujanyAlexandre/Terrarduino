@@ -27,4 +27,5 @@ Humidité ,chaleur , alimentation, hydratation, etc ...
 
 Nous avons aussi commencé la liste du matériel dont nous aurons besoins afin d'accomplir ce projet et nous avons commencé à nous renseigner sur les terrarium et les différentes espèces de reptiles à mettre à l'intérieur.
 
+* Entre la séance du 20 Décembre 2017 et la séance du 12 Janvier 2018
 
