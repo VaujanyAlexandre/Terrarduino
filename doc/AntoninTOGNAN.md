@@ -30,3 +30,18 @@ Nous avons aussi commencé la liste du matériel dont nous aurons besoins afin d
 
 * Entre la séance du 20 Décembre 2017 et la séance du 12 Janvier 2018
 
+Après des recherches sur des forums et sur des vidéos . Je pense que nous allons partir sur 3 espèces de reptiles :
+
+Le Pogona Vitticeps :
+
+![Pogona](https://tse3.mm.bing.net/th?id=OIP.LbCBSYcTixFAf1dprQ7bgQHaFj&pid=Api)
+
+Cycle Lumineux : 12h/12h.
+Point chaud : 50°C.
+Point froid: 28°C.
+Point froid nuit: 23°C.
+Nombre de grillon:  4/6 grillons par jour (ne pas oublier de lui donner des végétaux(type mache , pissenlit ...)).
+Hygrométrie : Désertique 25 % d'humidité dans l'air. 
+
+
+Vidéo informative: https://www.youtube.com/watch?v=TyLg_TOscos
